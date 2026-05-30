@@ -1,1 +1,1 @@
-kajfd
+print(",q")
